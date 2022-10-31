@@ -1,0 +1,2 @@
+def meditate(level, player):
+    
