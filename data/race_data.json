@@ -1,0 +1,110 @@
+{
+  "race": {
+    "Human": {
+      "origin": {
+        "Terean": {
+          "background": "Hailing from the southern continent, the people of Tere are strong willed, and love coin, booze, and having a good time. Like most humans, they are adaptable, and can change easily to fit any role, but are not as good at magic. Tere is almost exclusively populated by humans, and know little about what is outside their kingdom. Despite that, their wanderlust is not dulled in the slightest.",
+          "stats": [
+            3,
+            5,
+            5,
+            3,
+            4
+          ],
+          "suggested-city": "Kingdom of Tere",
+          "trait": {
+            "name": "Merriment",
+            "description": "Passive: When resting in an inn, hostel, or house, Tereans will give a 3% boost to all stats the next day"
+          }
+        },
+        "Islander": {
+          "background": "Hailing from archipelagos between the major continents, Islanders share similar cultures and customs despite being spread out and relatively isolated. Together they form the Confederation of Tasalk. Many islands have their own rulers or monarchs, but they all answer to the Council on the capital, Salk. Years of living on the sea have given them a unique take on life,as well as making them light on their feet. A thriving magical culture has arisen to ward off intense magical storms that plague the islands in the summer.",
+          "stats": [
+            3,
+            3,
+            5,
+            5,
+            4
+          ],
+          "suggested-city": "Salk",
+          "trait": {
+            "name": "Steady",
+            "description": "Passive: Whether on sea or land, an islander never has to fear losing their footing. Difficult terrain does not effect an islander."
+          }
+        },
+        "Hidden": {
+          "background": "Despite their name, the Hidden are well known throughout the Western continent. The Hidden Empire is built in a sprawling underground metropolis that has started making contact with the outside world less than a century ago, when Emperor Laden attempted to take over near by towns for resources. After being routed by the joint half-elf army of the Traben and Halek kingdoms, a coup deposed Emperor Laden and ushered in a new era for the Hidden people. Their underground home is rich in magic, and generationof living underground have made them well adapted to the dark, giving them extraordinary sight.",
+          "stats": [
+            5,
+            3,
+            3,
+            5,
+            4
+          ],
+          "suggested-city": "Halceion",
+          "trait": {
+            "name": "True Vision",
+            "description": "Passive: Being raised in the magically dense underground cities, the Hidden can see in many different situations. Darkness, illusions, or gloom pose no obstacle for the Hidden's eyes."
+          }
+        },
+        "Yan": {
+          "background": "Yan are considered one of the oldest groups of humans in the world, with most humans tracing their origins back to the Yan nomads. In the modern day, Yan are treated with varying degrees of respect and wariness from the people of the 5 continents. Their history is passed down in song and dance, relying less on written language and more on a rich oral tradition. Countless different families wander, plying every trade there is, from wandering blacksmith to traveling performers. Yan put a heavy emphasis on family but are rather loose on what it takes to be family. Whether you be an outcast, lost, or without a place of belong, the Yan will always welcome you into their family with open arms. ",
+          "stats": [
+            4,
+            4,
+            4,
+            4,
+            4
+          ],
+          "suggested-city": "Southern Continent",
+          "trait": {
+            "name": "Steady pace",
+            "description": "Passive: The Yan grew up travelling the world with their family. They know the roads and obstacles better than anyone and gain a 5% increase to travel speed."
+          }
+        }
+      }
+    },
+    "Beastkin": {
+      "origin": {
+        "Knoll": {
+          "background": "The wandering tribes of knolls in the northern continent come in a many different shapes in sizes, but they are all know for their ferocity in battle, love for bows, and tight knit family structure. The knolls are native the the northern continent, sharing a home land with the Drak. Despite their long history, there are very few knolls who have magic talent, and those that due are unlikely to ever know due to the lack of training materials available to them. They have no particular rivalries with the other races, but their insular nature can make them hard to fit in with.",
+          "stats": [1,6,6,3,4],
+          "suggested-city": "Liscor",
+          "trait": {
+            "name": "Pack Tactics",
+            "description": "When in a group, Knolls receive a 2% increase in stats."
+          }
+        },
+        "Fea'traen": {
+          "background": "A race of fox tailed and eared people that resemble humans, but are distinctly different. They are taller, inherently better at magic and more stuck up in nature. Fea'trean society is highly caste based, with your position in the world determined by the color of your hair. The closer to white your hair is, the higher you are in society, and some claim that the Platinum caste, the highest and ",
+          "stats": [],
+          "suggested-city": "",
+          "trait": {
+            "name": "",
+            "description": ""
+          }
+        },
+        "Pantharian": {
+          "background": "",
+          "stats": [],
+          "suggested-city": "",
+          "trait": {
+            "name": "",
+            "description": ""
+          }
+        },
+        "Drak": {
+          "background": "",
+          "stats": [],
+          "suggested-city": "",
+          "trait": {
+            "name": "",
+            "description": ""
+          }
+        }
+      }
+    }
+  }
+}
+
+
